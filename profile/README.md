@@ -2,7 +2,7 @@
 
 # 🚀 교육 서비스 프로젝트 모음
 
-## 📅 일일 회의록 [[바로가기]()]
+## 📅 일일 회의록 [[바로가기-2/10](https://github.com/ChunJae-Full-Stack-FinalProject/.github/blob/main/meeting/MeetingNotes.txt#L1)]
 
 ## 📑 프로젝트 목록
 

@@ -2,10 +2,7 @@
 
 # 🚀 교육 서비스 프로젝트 모음
 
-## 📑 회의록
-<a href="링크를입력해주세요">
-  <img src="https://img.shields.io/badge/📝_전체_회의록_보기-4285F4?style=for-the-badge&logoColor=white" alt="회의록 보기" />
-
+## 📅 일일 회의록 [[바로가기]()]
 
 ## 📑 프로젝트 목록
 

@@ -2,11 +2,10 @@
 
 # 🚀 교육 서비스 프로젝트 모음
 
-<div align="center">
-  
-[![contribution welcome]()]()
-  
-</div>
+## 📑 회의록
+<a href="링크를입력해주세요">
+  <img src="https://img.shields.io/badge/📝_전체_회의록_보기-4285F4?style=for-the-badge&logoColor=white" alt="회의록 보기" />
+
 
 ## 📑 프로젝트 목록
 
@@ -40,16 +39,44 @@
   <tr>
     <td align="center">
       <a href="https://github.com/hoonee-math">
-        <img src="https://github.com/hoonee-math.png" width="100px;" alt="최광훈님의 프로필" style="border-radius:50%; border: 2px solid #00000033;/>
-        <br />
-        <sub><b>팀장 최광훈</b></sub>
+        <img src="https://github.com/hoonee-math.png" width="100px;" alt="hoonee-math" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
+        <sub><b>최광훈</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/daineee424">
-        <img src="https://github.com/daineee424.png" width="100px;" alt="정다인님의 프로필" style="border-radius:50%; border: 2px solid #00000033;"/>
-        <br />
+        <img src="https://github.com/daineee424.png" width="100px;" alt="daineee424" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
         <sub><b>정다인</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/blue032">
+        <img src="https://github.com/blue032.png" width="100px;" alt="blue032" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
+        <sub><b>이예진</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/woogamjaa">
+        <img src="https://github.com/woogamjaa.png" width="100px;" alt="woogamjaa" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
+        <sub><b>우민혁</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/my2min0">
+        <img src="https://github.com/my2min0.png" width="100px;" alt="my2min0" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
+        <sub><b>이민영</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minho0802">
+        <img src="https://github.com/minho0802.png" width="100px;" alt="minho0802" style="border-radius:50%; border: 2px solid #00000033;"/>
+        <br/>
+        <sub><b>김민</b></sub>
       </a>
     </td>
   </tr>

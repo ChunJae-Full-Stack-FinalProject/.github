@@ -25,7 +25,7 @@
       <td>16</td>      <td>17</td>      <td>18</td>      <td>19</td>      <td>20</td>      <td>21</td>      <td>22</td>
     </tr>
     <tr>
-      <td>23</td>      <td>24</td>      <td>25</td>      <td>26</td>      <td>27</td>      <td>28</td>      <td></td>      <td></td>
+      <td>23</td>      <td>24</td>      <td>25</td>      <td>26</td>      <td>27</td>      <td>28</td>      <td></td>
     </tr>
   </tbody>
 </table>

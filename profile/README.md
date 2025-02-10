@@ -73,7 +73,7 @@
       <a href="https://github.com/minho0802">
         <img src="https://github.com/minho0802.png" width="100px;" alt="minho0802" style="border-radius:50%; border: 2px solid #00000033;"/>
         <br/>
-        <sub><b>김민</b></sub>
+        <sub><b>김민호</b></sub>
       </a>
     </td>
   </tr>

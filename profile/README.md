@@ -35,6 +35,7 @@
 
 📋 프로젝트 문서
 - [화면설계](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&p=f&t=RQGkB4juDY2PdwhF-0)
+- [기능 플로우 차트](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&t=WI6CIlGyT0RicRup-1)
 - [기능정의서]
 - [회의록]
 

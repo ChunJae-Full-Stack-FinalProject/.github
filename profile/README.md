@@ -2,7 +2,7 @@
 
 # 🚀 교육 서비스 프로젝트 모음
 
-## 📅 일일 회의록 [[바로가기-2/10](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L2)]
+## 📅 일일 회의록 [[바로가기-2/14](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L52)]
 <table>
   <thead>
     <tr>
@@ -19,7 +19,7 @@
     <tr>
       <td>9</td>
       <td><a href="https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L2">10</a></td>
-      <td>11</td>      <td>12</td>      <td>13</td>      <td>14</td>      <td>15</td>
+      <td>11</td>      <td>12</td>      <td>13</td>      <td><a href="https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L52">14</a></td>      <td>15</td>
     </tr>
     <tr>
       <td>16</td>      <td>17</td>      <td>18</td>      <td>19</td>      <td>20</td>      <td>21</td>      <td>22</td>

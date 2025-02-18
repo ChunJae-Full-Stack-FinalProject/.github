@@ -1,8 +1,11 @@
 빛민민다예감 / 감예다민민빛 / bslove / 어벤져스 팀의 test Repository
+## 📌 커밋 메세지 규칙 안내 [[바로가기 by dain](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%8B%9C%EC%A7%80%20%EA%B7%9C%EC%B9%99.md)]
+<br>
+
 
 # 🚀 교육 서비스 프로젝트 모음
 
-## 📅 일일 회의록 [[바로가기-2/14](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L52)]
+## 📅 일일 회의록 [[바로가기-2/18](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L69)]
 <table>
   <thead>
     <tr>
@@ -22,7 +25,7 @@
       <td>11</td>      <td>12</td>      <td>13</td>      <td><a href="https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L52">14</a></td>      <td>15</td>
     </tr>
     <tr>
-      <td>16</td>      <td>17</td>      <td>18</td>      <td>19</td>      <td>20</td>      <td>21</td>      <td>22</td>
+      <td>16</td>      <td>17</td>      <td><a href="https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L69">18</a></td>      <td>19</td>      <td>20</td>      <td>21</td>      <td>22</td>
     </tr>
     <tr>
       <td>23</td>      <td>24</td>      <td>25</td>      <td>26</td>      <td>27</td>      <td>28</td>      <td></td>

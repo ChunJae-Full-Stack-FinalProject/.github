@@ -33,7 +33,7 @@
   </tbody>
 </table>
 
-### 1. 해법학원 시범강의 예약 웹서비스
+### 1. 해법학원 시범강의 예약 웹서비스 [Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/1st_reservation)
 > 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트
 
 📋 프로젝트 문서

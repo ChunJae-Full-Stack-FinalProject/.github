@@ -1,10 +1,8 @@
-빛민민다예감 / 감예다민민빛 / bslove / 어벤져스 팀의 test Repository
+팀명: [Genius](#section1)<br>
+부제: 빛민민다예감 / 감예다민민빛 / bslove / 어벤져스 팀의 test Repository<br>
 ## 📌 커밋 메세지 규칙 안내 [[바로가기 by dain](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%8B%9C%EC%A7%80%20%EA%B7%9C%EC%B9%99.md)]
-<br>
 
-[섹션 1로 이동](#section1)
-
-# 🚀 교육 서비스 프로젝트 모음
+## 📌 branch 전략 안내 [[바로가기](#section2) ]
 
 ## 📅 일일 회의록 [[바로가기-2/18](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L69)]
 <table>
@@ -63,7 +61,7 @@
 </details>
 
 ## 👥 팀 구성원
-
+<a id="section1"></a>
 <table>
   <tr>
     <td align="center">
@@ -133,12 +131,16 @@
 - CSS
 
 
-[섹션 2로 이동](#section2)  
-
 ---
 
-<a id="section1"></a>
-### 섹션 1
-이곳은 첫 번째 섹션입니다.
+<a id="section2"></a>
+## 브랜치 전략
+<details><summary>open</summary><br>
+  
+![20250222_Genius_1st_github_strategy - 복사본 (1)](https://github.com/user-attachments/assets/0e0dc331-5b1c-4f1b-9a05-e63a65f18a0d)
+
+![20250222_Genius_1st_github_strategy - 복사본 (4)](https://github.com/user-attachments/assets/62f5b50c-9950-440e-ace3-094d86714329)
+
+</details>
 
 ---

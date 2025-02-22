@@ -2,6 +2,7 @@
 ## 📌 커밋 메세지 규칙 안내 [[바로가기 by dain](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%8B%9C%EC%A7%80%20%EA%B7%9C%EC%B9%99.md)]
 <br>
 
+[섹션 1로 이동](#section1)
 
 # 🚀 교육 서비스 프로젝트 모음
 
@@ -34,29 +35,32 @@
 </table>
 
 ### 1. 해법학원 시범강의 예약 웹서비스 [Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/1st_reservation)
-> 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트
+<details open><summary> 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트</summary><br>
 
 📋 프로젝트 문서
 - [화면설계](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&p=f&t=RQGkB4juDY2PdwhF-0)
 - [기능 플로우 차트](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&t=WI6CIlGyT0RicRup-1)
 - [기능정의서]
 - [회의록]
+</details>
 
 ### 2. 학생 학습 용어정리 공유 웹 서비스
-> PM 과 협업 프로젝트 진
+<details><summary> PM 과 협업 프로젝트 진</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]
 - [기능정의서]
 - [회의록]
+</details>
 
 ### 3. 웹 코딩교육 서비스
-> 웹 개발 학습을 위한 코딩교육 서비스 개발 프로젝트
+<details><summary>웹 개발 학습을 위한 코딩교육 서비스 개발 프로젝트</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]
 - [기능정의서]
 - [회의록]
+</details>
 
 ## 👥 팀 구성원
 
@@ -127,3 +131,14 @@
 - Vue.js
 - JavaScript
 - CSS
+
+
+[섹션 2로 이동](#section2)  
+
+---
+
+<a id="section1"></a>
+### 섹션 1
+이곳은 첫 번째 섹션입니다.
+
+---

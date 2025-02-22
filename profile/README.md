@@ -135,7 +135,7 @@
 
 <a id="section2"></a>
 ## 브랜치 전략
-<details><summary>open</summary><br>
+<details open><summary>close</summary><br>
   
 ![20250222_Genius_1st_github_strategy - 복사본 (1)](https://github.com/user-attachments/assets/0e0dc331-5b1c-4f1b-9a05-e63a65f18a0d)
 

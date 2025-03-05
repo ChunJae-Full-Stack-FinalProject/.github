@@ -4,7 +4,8 @@
 
 ## 📌 branch 전략 안내 [[바로가기](#section2) ]
 
-## 📅 일일 회의록 [[바로가기-2/18](https://github.com/ChunJae-Full-Stack-FinalProject/meeting/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.txt#L69)]
+## 📅 노션 [[노션으로 바로가기](https://www.notion.so/GenieQ-1aced0befda380baad17c1c87eb770c4?pvs=4)]
+<details>
 <table>
   <thead>
     <tr>
@@ -31,9 +32,10 @@
     </tr>
   </tbody>
 </table>
+</details>
 
 ### 1. 해법학원 시범강의 예약 웹서비스 [Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/1st_reservation)
-<details open><summary> 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트</summary><br>
+<details><summary> 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트</summary><br>
 
 📋 프로젝트 문서
 - [화면설계](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&p=f&t=RQGkB4juDY2PdwhF-0)
@@ -42,8 +44,8 @@
 - [회의록]
 </details>
 
-### 2. 학생 학습 용어정리 공유 웹 서비스
-<details><summary> PM 과 협업 프로젝트 진</summary><br>
+### 2. 학생 학습 용어정리 공유 웹 서비스 [Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd) 
+<details open><summary> PM 과 협업 프로젝트 진</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]

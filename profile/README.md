@@ -44,7 +44,7 @@
 - [회의록]
 </details>
 
-### 2. 학생 학습 용어정리 공유 웹 서비스 [Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd) 
+### 2. 학생 학습 용어정리 공유 웹 서비스 [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd)]
 <details open><summary> PM 과 협업 프로젝트 진</summary><br>
 
 📋 프로젝트 문서

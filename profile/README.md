@@ -1,6 +1,3 @@
-팀명: [Genius](#section1)<br>
-부제: 빛민민다예감 / 감예다민민빛 / bslove / 어벤져스 팀의 test Repository<br>
-
 ## 👥 팀 구성원
 <a id="section1"></a>
 <table>

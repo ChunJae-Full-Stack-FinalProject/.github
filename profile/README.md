@@ -61,7 +61,7 @@
 - [회의록]
 </details>
 
-### 2. 학생 학습 용어정리 공유 웹 서비스 [[홈페이지](http://43.202.6.90)] [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd)]
+### 2. 비문학 지문 및 문항 생성 AI 웹 서비스 [[홈페이지](http://43.202.6.90)] [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd)]
 <details><summary> PM 8기/AI팀 과 협업 프로젝트 진행</summary><br>
 
 📋 프로젝트 문서
@@ -70,8 +70,8 @@
 - [회의록]
 </details>
 
-### 3. 웹 코딩교육 서비스  [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_BackEnd)]
-<details><summary>웹 개발 학습을 위한 코딩교육 서비스 개발 프로젝트</summary><br>
+### 3. 중고등 문제은행 웹 서비스 개발  [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_BackEnd)]
+<details><summary>중고등 문제은행 웹 서비스 개발</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]

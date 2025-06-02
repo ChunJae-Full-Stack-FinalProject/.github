@@ -51,32 +51,36 @@
 
 ## 📌 branch 전략 안내 [[바로가기 by hoon](#section2) ]
 
-### 1. 해법학원 시범강의 예약 웹서비스 [[홈페이지](http://43.202.6.90:8080/reservation)] [[Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/1st_reservation)]
+### 1. 해법학원 시범강의 예약 웹서비스
 <details><summary> 학원 시범강의 예약을 위한 웹 서비스 개발 프로젝트</summary><br>
 
 📋 프로젝트 문서
-- [화면설계](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&p=f&t=RQGkB4juDY2PdwhF-0)
-- [기능 플로우 차트](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&t=WI6CIlGyT0RicRup-1)
+- [[홈페이지](http://43.202.6.90:8080/reservation)] 
+- [[화면설계](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&p=f&t=RQGkB4juDY2PdwhF-0)]
+- [[기능 플로우 차트](https://www.figma.com/design/H0X5PaPsXdEhBhfo94oj2V/ChunJae-Full-Stack-Final-Project?node-id=0-1&t=WI6CIlGyT0RicRup-1)]
 - [기능정의서]
 - [회의록]
+- [[Repository 바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/1st_reservation)]
 </details>
 
-### 2. 비문학 지문 및 문항 생성 AI 웹 서비스 [[홈페이지](http://43.202.6.90)] [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd)]
+### 2. 비문학 지문 및 문항 생성 AI 웹 서비스 [[바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/GenieQ-overview)]
 <details><summary> PM 8기/AI팀 과 협업 프로젝트 진행</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]
 - [기능정의서]
 - [회의록]
+- [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd)]
 </details>
 
-### 3. 중고등 문제은행 웹 서비스 개발  [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_BackEnd)]
+### 3. 중고등 문제은행 웹 서비스 개발 [[바로가기](https://github.com/ChunJae-Full-Stack-FinalProject/Chunjae-Library-overview)]
 <details><summary>중고등 문제은행 웹 서비스 개발</summary><br>
 
 📋 프로젝트 문서
 - [화면설계]
 - [기능정의서]
 - [회의록]
+- [[FrontEnd Vue-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_FrontEnd)] [[BackEnd java-repo](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_BackEnd)]
 </details>
 
 ## 🛠 기술 스택
